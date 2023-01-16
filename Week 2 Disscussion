@@ -1,0 +1,27 @@
+name = input("What is your name?").title()
+
+# 1. Ham
+# 2. Peanut
+# 3. Turkey
+# 4. Roast Beef 
+Bread Selection: Wheat or White
+
+Order = int(input("""
+        
+        Enter your order number from the menu
+        1. Ham
+        2. Peanut
+        3. Turkey
+        4. Roast Beef
+        
+        Enter your selection here++."""))
+       
+bread = int(input(""",
+        
+        Enter the type of bread
+        1. White 
+        2. Wheat
+        
+        Enter your selection here==>""",))
+        
+Total = float(input("3.00"))
